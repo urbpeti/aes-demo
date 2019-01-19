@@ -1,15 +1,14 @@
 {
-  "name": "aes-kata",
+  "name": "aes-demo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "AES block encryption",
   "scripts": {
     "test": "mocha lib/**/*.spec.js lib/*.spec.js"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.0"
+  "author": "Daniel Szpisjak",
+  "license": "MIT",
+  "dev-dependencies": {
+    "chai": "4.1.2",
+    "mocha": "4.0.0"
   }
 }
