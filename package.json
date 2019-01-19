@@ -7,7 +7,7 @@
   },
   "author": "Daniel Szpisjak",
   "license": "MIT",
-  "dev-dependencies": {
+  "devDependencies": {
     "chai": "4.1.2",
     "mocha": "4.0.0"
   }
